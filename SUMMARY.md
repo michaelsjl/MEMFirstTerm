@@ -1,6 +1,6 @@
-# Summary
+# MEM第一学期学习笔记
 
-* [总](README.md)
+* [前言](README.md)
 * [工程管理导论](工程管理导论/SUMMARY.md)
 * [研究生英语](研究生英语/SUMMARY.md)
 * [人力资源管理](人力资源管理/SUMMARY.md)
